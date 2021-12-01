@@ -4,7 +4,7 @@ De la inspiración  a la creación.
     
    </head>
    <body>
-       <H2> INGRESAR </H2>
+       <H3> INGRESAR </H3>
    </Body>
 <a href="Pagina principal.html" target="d">Pagina Principal</a>
      </body>
