@@ -11,7 +11,7 @@ p{ font-family: Verdana; <font-size:2000>; align-CONTENT: center; "YGA-FASHION"}
      </STYle>
    </head>
    <body>
-       <H1>INGRESAR/H1
+       <H1>INGRESAR </H1>
    </Body>
 <a href="Pagina principal.html" target="d">Pagina Principal</a>
      </body>
